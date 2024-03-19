@@ -12,8 +12,15 @@ CRUD 게시판을 구축할 수 있는 연습할 할 수 있습니다.
 ## 설치방법
 ### Git Clone
 ```
-# git clone 
+# git clone https://github.com/devkgn/guestbook.git
 ```
+### Server
+```
+# apache-tomcat-10.1.19\bin\startup.bat
+```
+### Login
+- ID : admin
+- PW : 1234
 
 
 
