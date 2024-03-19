@@ -9,7 +9,7 @@
 
 ### 스택
 <div style="margin: 0 auto; text-align: center;" align= "left"> 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 <img style="display:inline;" src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
 <img style="display:inline;" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
