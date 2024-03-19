@@ -1,8 +1,8 @@
 # 프로젝트명
 
 ### 목적
-방명록에 글을 작성하고, 목록을 조회할 수 있는 간단한 프로젝트를 구성하여
-다양한 방식(model2, MVC, Spring Legacy, Spring Boot)로
+방명록에 글을 작성하고, 목록을 조회할 수 있는 간단한 프로젝트를 구성하여<br>
+다양한 방식(model2, MVC, Spring Legacy, Spring Boot)로<br>
 CRUD 게시판을 구축할 수 있는 연습할 할 수 있습니다. 
 
 ### 주요기능
