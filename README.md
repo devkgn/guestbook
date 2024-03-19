@@ -1,6 +1,8 @@
 # 프로젝트명
 
-### 목적
+## 소개
+
+### 목표
 방명록 등록과 조회 기능만 있는 간단한 프로젝트를 통해 다양한 아키텍쳐의 CRUD 게시판을 구축할 수 있습니다.
 
 ### 기능
@@ -36,6 +38,8 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
+
+### DB구성
 
 
 ## 설치방법
