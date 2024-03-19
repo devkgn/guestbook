@@ -40,7 +40,7 @@
 </div>
 
 ### DB구성
-
+<img width="461" alt="ERD" src="https://github.com/devkgn/guestbook/assets/149357993/12db5177-92a1-4430-82c6-b51f0998e0df">
 
 ## 설치방법
 ### Git Clone
