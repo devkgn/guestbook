@@ -1,13 +1,28 @@
-# 프로젝트명
+# 구디 도서관
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevkgn%2Fguestbook.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 ## 소개
+구디 도서관은 도서관이 소유하고 있는 도서를 관리하는 시스템입니다.
+직원전용 시스템으로 직원들의 회원가입, 로그인, 목록, 정보 수정이 가능합니다.
+도서의 이미지를 포함한 각종 정보를 등록, 조회, 수정, 삭제가 가능합니다. 
+도서명으로 도서 검색, 도서 목록 페이징 등 다양한 편의 기능을 추가하였습니다.
 
 ### 목표
-방명록 등록과 조회 기능만 있는 간단한 프로젝트를 통해 다양한 아키텍쳐의 CRUD 게시판을 구축할 수 있습니다.
+회원과 도서 정보를 Create, Read, Update, Delete하는 시스템을 Spring Framework로 구현하여서
+웹 프로그래밍의 근간을 이루는 CRUD 게시판 구현의 개념을 확실히 습득하고자 하였습니다.
 
 ### 기능
-- 방명록 글 추가
-- 방명록 전체 글 조회
+1. 회원
+   - 회원가입
+   - 로그인
+   - 회원목록
+   - 회원수정
+2. 도서
+   - 도서 등록
+   - 도서 목록
+   - 도서 검색
+   - 도서 상세
+   - 도서 수정
+   - 도서 삭제
 
 ### 스택
 <div style="margin: 0 auto; text-align: center;" align= "left"> 
@@ -45,16 +60,21 @@
 ## 설치방법
 ### Git Clone
 ```
-# git clone https://github.com/devkgn/guestbook.git
+# git clone https://github.com/devkgn/library_pjt_new.git
 ```
 ### Server
 ```
-# apache-tomcat-10.1.19\bin\startup.bat
+# apache-tomcat-9.0.87\bin\startup.bat
 ```
 ### Login
 - ID : admin
 - PW : 1234
 
+## 지원
+구디 도서관 프로젝트에서 오류를 발견하실 경우 아래 메일로 연락주시면 감사하겠습니다. 
+<p align="left">
+  <a href="mailto:devkgn13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devkgn@gmail.com"/></a>
+</p>
 
 
 
